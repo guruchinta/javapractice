@@ -5,7 +5,7 @@ public class primary implements InterfaceExample {
 		// TODO Auto-generated method stub
 		System.out.println("Helo Guru");
 		System.out.println(color);
-		System.out.println("Everythign works fine");
+
 		primary pm = new primary();
 		pm.fillUp();
 		
